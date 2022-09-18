@@ -32,6 +32,11 @@
 
 ## Backlogs & User Stories
 
+![BacklogDoProduto](https://user-images.githubusercontent.com/90697121/190928102-8f2c444c-70c5-42b9-bd19-bff6402f2321.png)
+
+![Backlog da Sprint 1](https://user-images.githubusercontent.com/90697121/190928127-ab4e731f-e6b5-4e8c-bb61-f6b4f3bee796.png)
+
+![User Stories](https://user-images.githubusercontent.com/90697121/190928148-61184ec1-4579-4e1a-9b33-aad3021f9997.png)
 
 
 → [Voltar ao topo](#topo)
