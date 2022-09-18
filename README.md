@@ -3,7 +3,6 @@
     <a href="#sobre">Sobre</a>  |  
     <a href="#entrega">Entrega do Produto</a> |
     <a href="#backlogs">Backlogs & User Stories</a>  |  
-    <a href="#documentacao">Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
 </p>
@@ -22,7 +21,7 @@
 
 | **Sprint** | **Entrega** | **Status** | **Link** |
 | :--------: | :---------: | :--------: | :------: |
-| 01         | 18/09/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
+| 01         | 18/09/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link]() |
 | 02         | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
 | 03         | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
 | 04         | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
@@ -33,15 +32,7 @@
 
 ## Backlogs & User Stories
 
-![BacklogTotal](https://user-images.githubusercontent.com/90697121/190162738-01f5d5c9-f1e4-4490-afab-ed6f1d65551d.png)
 
-![Backlog da Sprint 1](https://user-images.githubusercontent.com/90697121/190162773-b01103d2-cc3f-48ff-a6b2-f2c593980540.png)
-
-→ [Voltar ao topo](#topo)
-
-<span id="documentacao">
-
-## Documentação
 
 → [Voltar ao topo](#topo)
 
@@ -52,6 +43,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
 
 → [Voltar ao topo](#topo)
 
