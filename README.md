@@ -29,14 +29,31 @@ Este protótipo valida a entrega dos requisitos confirmados para a sprint, onde 
 
 ### 1: Criação do Painel administrativo
 Painel onde o administrador da aplicação, poderá adicionar, visualizar, editar e deletar produtos, assim como categorias e tags.
+    
+![image](https://user-images.githubusercontent.com/68930336/190942058-3a6cbeb8-f829-4a3b-b20e-dc5c612880cc.png)
+    
+Rotas:
+    
+![RotasProduto](https://user-images.githubusercontent.com/90697121/190942661-c72eb712-a5a2-4eca-8a41-d5417a533a60.jpeg)
+    
+![RotasCategoria](https://user-images.githubusercontent.com/90697121/190942678-aec57d1a-11d4-46b6-bfba-9de0b9c6e75f.jpeg)
+
+
 
 ### 2: Página de Produtos
 Página onde os produtos serão apresentados em grades, onde o "cliente" poderá acessar e ver mais sobre o mesmo e posteriormente comprar
+    
+![image](https://user-images.githubusercontent.com/68930336/190941927-d2d0df16-2518-4f7f-89b1-80fd6120ebc1.png)
 
 ### 4: Sugestão de Produtos
 Roleta localizada dentro da página de um produto, onde aparecerá produtos relacionados de acordo com a categoria, como sugestão para o "cliente" adquirir
+    
+![image](https://user-images.githubusercontent.com/68930336/190941971-b9752e98-85b4-4b71-a8cd-5228176db5c5.png)
+
 
 ## :chart_with_upwards_trend: Métricas do time
 Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em duas frentes: frontend e backend, onde, na primeira sprint, o time de frontend ficou responsável pela confecção do protótipo, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos microsserviços necessários e pesquisas sobre o tema do desafio. 
 - O acompanhamento de atividades, de responsabilidade da Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as atividades desenvolvidas e seus responsáveis.
+    
+![burndown](https://user-images.githubusercontent.com/90697121/190942605-78c37f9a-989d-47fe-9fe9-7212df042c9d.jpeg)
 
