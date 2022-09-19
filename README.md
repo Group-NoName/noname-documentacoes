@@ -1,69 +1,42 @@
-<br id="topo">
+<span id="topo">
+
+<h1 align="center">Sprint 1: 29/08/2022 a 18/09/2022</h1>
+
 <p align="center">
-    <a href="#sobre">Sobre</a>  |  
-    <a href="#entrega">Entrega do Produto</a> |
-    <a href="#backlogs">Backlogs & User Stories</a>  |  
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>
+    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#metricas">Métricas do time</a>
 </p>
 
-<span id="sobre">
+O projeto se baseia em um site de vendas de produtos e planos com a aplicação do Cross-selling, tendo também funcionalidades para gerenciamento de produtos, ofertas e promoções. Tendo em mente a dinâmica de MVP, na primeira sprint o time focou no cadastro e gerenciamento de produtos e na criação do Cross-selling dentro da aplicação. Para isso, foram levantados e validados os requisitos e o protótipo, construindo os serviços e interfaces visando uma entrega de grande valor condizente com a dor do cliente.
 
-## 📋Sobre o Projeto
-### Seguindo o desafio proposto pela empresa parceira “Uol”, a solução desenvolvida pela equipe se baseia em um site de venda de produtos focada em Venda-Cruzada (Cross-Selling), fazendo com que na visualização de determinado produto, sejam recomendados produtos semelhantes a esse cliente, incentivando o consumo e consequentemente auxiliando no aumento de receita da área de negócios.
+<span id="objetivos">
 
-→ [Voltar ao topo](#topo)
+## Objetivos da Sprint
+Os requisitos abrangidos por essa sprint são:
+- **1:** Criação do Painel administrativo
+- **2:** Página de Produtos
+- **4:** Sugestão de Produtos
 
-<span id="entrega">
+<span id="entregas">
 
-## 📌Entrega do produto
-### A entrega do produto é dividida em 4 “Sprints”, e cada uma dessas entregas estão marcadas com **Tags** no repositório, estando disponível o link para cada uma logo abaixo. 👇
+## Entregas
+Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints e User Stories, através de comunicação direta entre o P.O. e o cliente.
 
-| **Sprint** | **Entrega** | **Status** | **Link** |
-| :--------: | :---------: | :--------: | :------: |
-| 01         | 18/09/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link]() |
-| 02         | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
-| 03         | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
-| 04         | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo, escrito utilizando React e com a integração das funcionalidades acordadas para a primeira sprint pode ser observado a seguir:
 
-→ [Voltar ao topo](#topo)
+Este protótipo valida a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
 
-<span id="backlogs">
+### 1: Criação do Painel administrativo
+Painel onde o administrador da aplicação, poderá adicionar, visualizar, editar e deletar produtos, assim como categorias e tags.
 
-## Backlogs & User Stories
+### 2: Página de Produtos
+Página onde os produtos serão apresentados em grades, onde o "cliente" poderá acessar e ver mais sobre o mesmo e posteriormente comprar
 
-![BacklogDoProduto](https://user-images.githubusercontent.com/90697121/190928102-8f2c444c-70c5-42b9-bd19-bff6402f2321.png)
+### 4: Sugestão de Produtos
+Roleta localizada dentro da página de um produto, onde aparecerá produtos relacionados de acordo com a categoria, como sugestão para o "cliente" adquirir
 
-![Backlog da Sprint 1](https://user-images.githubusercontent.com/90697121/190928127-ab4e731f-e6b5-4e8c-bb61-f6b4f3bee796.png)
+## :chart_with_upwards_trend: Métricas do time
+Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em duas frentes: frontend e backend, onde, na primeira sprint, o time de frontend ficou responsável pela confecção do protótipo, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos microsserviços necessários e pesquisas sobre o tema do desafio. 
+- O acompanhamento de atividades, de responsabilidade da Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as atividades desenvolvidas e seus responsáveis.
 
-![User Stories](https://user-images.githubusercontent.com/90697121/190928148-61184ec1-4579-4e1a-9b33-aad3021f9997.png)
-
-
-→ [Voltar ao topo](#topo)
-
-<span id="tecnologias">
-
-## ⚙Tecnologias
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-
-→ [Voltar ao topo](#topo)
-
-<span id="equipe">
-
-## 👨‍💻Equipe
-| **Função** | **Nome** | **LinkedIn** | **GitHub** |
-| :--------: | :------: | :----------: | :--------: |
-| Product Owner | Kevin Ferreira Mirenda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-mirenda-a54a64220/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinFMfatec) |
-| Scrum Master | Lucas Ferreira da Costa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-costa-a49a01219/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasdwn) |
-| Dev Team | Antonio Alexandre Rezende Nepomuceno Junior | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun) |
-| Dev Team | Gabriel Souza Bicho Nunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ZeroPirata) |
-| Dev Team | Vinícius Andrade Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-barbosa-78111a206/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusAndBar) |
