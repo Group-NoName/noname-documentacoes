@@ -32,6 +32,29 @@ Painel onde o administrador da aplicação, poderá adicionar, visualizar, edita
     
 ![image](https://user-images.githubusercontent.com/68930336/190942058-3a6cbeb8-f829-4a3b-b20e-dc5c612880cc.png)
     
+![image](https://user-images.githubusercontent.com/68930336/190942058-3a6cbeb8-f829-4a3b-b20e-dc5c612880cc.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942105-706531e8-d451-4bac-8a4f-5ccb0b2a969d.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942130-e3d9f4f8-11cb-4f8e-b3bc-7049a7d2844c.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942273-a1a483b9-b241-478d-9076-35baa7eef349.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942308-93a687d9-2022-4681-b38e-2aaf8ef720f6.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942318-ced43624-e8a8-493e-9c37-6ee22d4ea71b.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942328-43e44475-b9e0-4971-b63e-78cd7d80f539.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942344-603b79b6-eec5-474f-ab98-40c5c2a207a2.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942367-4b195db8-c7b5-4063-af55-10dd0dfdb354.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942389-11b74900-c579-4ae8-9a2c-fdf8c4b1f1cf.png)
+
+![image](https://user-images.githubusercontent.com/68930336/190942416-77aa26f6-5dce-41fd-9e0e-c6d6a476916c.png)
+
+    
 Rotas:
     
 ![RotasProduto](https://user-images.githubusercontent.com/90697121/190942661-c72eb712-a5a2-4eca-8a41-d5417a533a60.jpeg)
