@@ -21,9 +21,9 @@
 
 | **Sprint** | **Entrega** | **Status** | **Link** |
 | :--------: | :---------: | :--------: | :------: |
-| 01         | 18/09/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link]() |
-| 02         | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
-| 03         | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
+| 01         | 18/09/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link](https://github.com/Group-NoName/noname-documentacoes/tree/Sprint-1) |
+| 02         | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link](https://github.com/Group-NoName/noname-documentacoes/tree/Sprint-2) |
+| 03         | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link](https://github.com/Group-NoName/noname-documentacoes/tree/Sprint-3) |
 | 04         | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
 
 → [Voltar ao topo](#topo)
@@ -71,8 +71,9 @@
 ## 👨‍💻Equipe
 | **Função** | **Nome** | **LinkedIn** | **GitHub** |
 | :--------: | :------: | :----------: | :--------: |
-| Product Owner | Kevin Ferreira Mirenda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-mirenda-a54a64220/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinFMfatec) |
-| Scrum Master | Lucas Ferreira da Costa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-costa-a49a01219/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasdwn) |
+| Product Owner | Lucas Ferreira da Costa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-costa-a49a01219/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasdwn) |
+| Scrum Master | Vinícius Andrade Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-barbosa-78111a206/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusAndBar) |
 | Dev Team | Antonio Alexandre Rezende Nepomuceno Junior | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun) |
 | Dev Team | Gabriel Souza Bicho Nunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ZeroPirata) |
-| Dev Team | Vinícius Andrade Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-barbosa-78111a206/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusAndBar) |
+| Dev Team | Kevin Ferreira Mirenda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-mirenda-a54a64220/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinFMfatec) |
+
