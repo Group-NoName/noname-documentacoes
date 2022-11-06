@@ -3,7 +3,6 @@
     <a href="#objetivos">Objetivos da sprint</a> |
     <a href="#entregas">Entrega do Produto</a> |
     <a href="#backlogs">Backlogs & User Stories</a>   |  
-    <a href="#metricas">Métricas do time</a> |  
     <a href="#equipe">Equipe</a>   
 </p>
 
@@ -21,32 +20,29 @@
 
 ## Objetivos da Sprint
 Os requisitos abrangidos por essa sprint são:
-- **1:** 
-- **2:** 
-- **4:** 
+- **1:** Cadastro de 50 produtos em 5 minutos.
+- **2:** Refatoração de Entidades(Produtos, Serviços, Pacotes...) da aplicação. 
 
 → [Voltar ao topo](#topo)
     
 <span id="entregas">
 
 ## Entregas
-
+- Refatoração das entidades com o contexto desejado pela UOL
+- Cadastro de multiplos produtos em Serviços
     
 → [Voltar ao topo](#topo)
     
 <span id="backlogs">
 
-## Backlogs & User Stories
+## Backlogs
 
+### Backlog do produto 3ª e 4ª Sprint
+![image](https://user-images.githubusercontent.com/68930336/200196210-519ab24e-1a97-4d2a-b1bf-c955313869b4.png)
 
-→ [Voltar ao topo](#topo)
-    
-<span id="metricas">    
+### Backlog 3ª Sprint
+![image](https://user-images.githubusercontent.com/68930336/200196350-be308e66-bcf5-41d8-a17a-ebb1c96f47b8.png)
 
-## :chart_with_upwards_trend: Métricas do time
-Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em duas frentes: frontend e backend, onde, na primeira sprint, o time de frontend ficou responsável pela confecção do protótipo, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos microsserviços necessários e pesquisas sobre o tema do desafio. 
-- O acompanhamento de atividades, de responsabilidade da Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as atividades desenvolvidas e seus responsáveis.
-    
 → [Voltar ao topo](#topo)
     
 <span id="equipe">
