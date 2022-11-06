@@ -29,6 +29,15 @@ Os requisitos abrangidos por essa sprint são:
 
 ## Entregas
 - Refatoração das entidades com o contexto desejado pela UOL
+    
+    - Imagem de referência enviada pela UOL:
+    
+    <img src="https://user-images.githubusercontent.com/68930336/200196513-4c977369-2afb-42e5-a0ac-5a17cd9beb88.png" alt="Imagem de referência enviada pela UOL" style="height: 300px;"/>
+    
+    - Imagem de entendimento da equipe:
+    
+    <img src="https://user-images.githubusercontent.com/68930336/200196690-01b74661-167f-4aca-9954-11f1952d2e60.png" alt="Imagem de entendimento da equipe" style="height: 350px; width:450px;"/>
+
 - Cadastro de multiplos produtos em Serviços
     
 → [Voltar ao topo](#topo)
