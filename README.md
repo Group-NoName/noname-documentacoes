@@ -40,7 +40,7 @@ Os requisitos abrangidos por essa sprint são:
     <img src="https://user-images.githubusercontent.com/68930336/200196690-01b74661-167f-4aca-9954-11f1952d2e60.png" alt="Imagem de entendimento da equipe" style="height: 350px; width:450px;"/>
 
 - Cadastro rápido de multiplos produtos 
-    <img src="https://user-images.githubusercontent.com/88664252/200199651-d9951e46-669e-4b42-b8b4-50d5ad3460d0.png" alt="Imagem de cadastro rapido de produtos" style="height: 333px"/>
+    <img src="https://user-images.githubusercontent.com/88664252/200199651-d9951e46-669e-4b42-b8b4-50d5ad3460d0.png" alt="Imagem de cadastro rapido de produtos" style="height: 350px"/>
 
 
     
