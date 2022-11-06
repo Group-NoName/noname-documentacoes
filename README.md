@@ -21,8 +21,9 @@
 ## Objetivos da Sprint
 Os requisitos abrangidos por essa sprint são:
 - **1:** Cadastro de 50 produtos em 5 minutos.
-- **2:** Refatoração de Entidades(Produtos, Serviços, Pacotes...) da aplicação. 
-
+- **2:** Refatoração de Entidades(Produtos, Serviços, Pacotes e Oferta) da aplicação. 
+- **3:** Criação de Promoção.
+    
 → [Voltar ao topo](#topo)
     
 <span id="entregas">
