@@ -23,7 +23,7 @@
 | :--------: | :---------: | :--------: | :------: |
 | 01         | 18/09/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link](https://github.com/Group-NoName/noname-documentacoes/tree/Sprint-1) |
 | 02         | 09/10/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link](https://github.com/Group-NoName/noname-documentacoes/tree/Sprint-2) |
-| 03         | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link](https://github.com/Group-NoName/noname-documentacoes/tree/Sprint-3) |
+| 03         | 06/11/2022  | [![Generic badge](https://img.shields.io/badge/-Concluído-green)](https://shields.io/) | [Link](https://github.com/Group-NoName/noname-documentacoes/tree/Sprint-3) |
 | 04         | 27/11/2022  | [![Generic badge](https://img.shields.io/badge/-Em%20Andamento...-red)](https://shields.io/) | [Link]() |
 
 → [Voltar ao topo](#topo)
