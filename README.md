@@ -32,7 +32,7 @@
 
 ## Backlogs & User Stories
 
-![NONAME](https://user-images.githubusercontent.com/68930336/200444372-1cf8a5b1-991d-4572-9434-2aadcd0a6cdb.png)
+![NONAME](https://user-images.githubusercontent.com/68930336/200446012-7621f6da-c955-4dbf-888a-938b0cf231d4.png)
 
 → [Voltar ao topo](#topo)
 
