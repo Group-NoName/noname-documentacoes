@@ -2,7 +2,6 @@
     <a href="#sobre">Sobre</a>  |  
     <a href="#objetivos">Objetivos da sprint</a> |
     <a href="#entregas">Entrega do Produto</a> |
-    <a href="#backlogs">Backlogs & User Stories</a>   |  
     <a href="#equipe">Equipe</a>   
 </p>
 
@@ -29,7 +28,7 @@ Os requisitos abrangidos por essa sprint são:
 <span id="entregas">
 
 ## Entregas
-- Refatoração das entidades com o contexto desejado pela UOL
+- **RF #2** - Refatoração das entidades com o contexto desejado pela UOL
     
     - Imagem de referência enviada pela UOL:
     
@@ -39,23 +38,11 @@ Os requisitos abrangidos por essa sprint são:
     
     <img src="https://user-images.githubusercontent.com/68930336/200196690-01b74661-167f-4aca-9954-11f1952d2e60.png" alt="Imagem de entendimento da equipe" style="height: 350px; width:450px;"/>
 
-- Cadastro rápido de multiplos produtos 
+- **RF #1** - Cadastro rápido de multiplos produtos 
     <img src="https://user-images.githubusercontent.com/88664252/200199651-d9951e46-669e-4b42-b8b4-50d5ad3460d0.png" alt="Imagem de cadastro rapido de produtos" style="height: 350px"/>
 
 
     
-→ [Voltar ao topo](#topo)
-    
-<span id="backlogs">
-
-## Backlogs
-
-### Backlog do produto 3ª e 4ª Sprint
-![image](https://user-images.githubusercontent.com/68930336/200196210-519ab24e-1a97-4d2a-b1bf-c955313869b4.png)
-
-### Backlog 3ª Sprint
-![image](https://user-images.githubusercontent.com/68930336/200196350-be308e66-bcf5-41d8-a17a-ebb1c96f47b8.png)
-
 → [Voltar ao topo](#topo)
     
 <span id="equipe">
