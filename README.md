@@ -29,15 +29,20 @@ Os requisitos abrangidos por essa sprint são:
 ## Entregas
 
 - **RF #1** - Cadastro rápido de multiplos produtos 
-    <img src="https://user-images.githubusercontent.com/88664252/200199651-d9951e46-669e-4b42-b8b4-50d5ad3460d0.png" alt="Imagem de cadastro rapido de produtos" style="height: 350px"/>
+    
+    <img src="https://user-images.githubusercontent.com/90697121/204168769-dfd17e2d-8656-440e-a3d4-4838d9cba019.png" alt="Imagem de cadastro rapido de produtos" style="height: 350px"/>
 
 - Listagem de produtos
-
+    
+    <img src="https://user-images.githubusercontent.com/90697121/204168990-bd556e94-ff4e-49c0-b6ca-c5eaa4110a3e.png" alt="Imagem de listagem de produtos" style="height: 350px"/>
 
 - Visualização de produtos
-
+    
+    <img src="https://user-images.githubusercontent.com/90697121/204169014-ade35542-8f31-4356-b77e-b0904a2d4d88.png" alt="Imagem de visualização de produtos" style="height: 350px"/>
 
 - Edição de produtos
+    
+    <img src="https://user-images.githubusercontent.com/90697121/204169072-6b9419fc-4ce3-4072-9900-794a0d3f29c2.png" alt="Imagem de edição de produtos" style="height: 350px"/>
     
 → [Voltar ao topo](#topo)
     
