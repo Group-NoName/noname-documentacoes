@@ -6,7 +6,7 @@
 </p>
 
 <span id="topo">
-<h1 align="center">Sprint 3: 17/10/2022 a 06/11/2022</h1>
+<h1 align="center">Sprint 4: 07/11/2022 a 27/11/2022</h1>
 
 <span id="sobre">
 
@@ -20,28 +20,24 @@
 ## Objetivos da Sprint
 Os requisitos abrangidos por essa sprint são:
 - **1:** Cadastro de 50 produtos em 5 minutos.
-- **2:** Refatoração de Entidades(Produtos, Serviços, Pacotes e Oferta) da aplicação. 
-- **3:** Criação de Promoção.
+- **2:** Estilização do projeto.
     
 → [Voltar ao topo](#topo)
     
 <span id="entregas">
 
 ## Entregas
-- **RF #2** - Refatoração das entidades com o contexto desejado pela UOL
-    
-    - Imagem de referência enviada pela UOL:
-    
-    <img src="https://user-images.githubusercontent.com/68930336/200196513-4c977369-2afb-42e5-a0ac-5a17cd9beb88.png" alt="Imagem de referência enviada pela UOL" style="height: 300px;"/>
-    
-    - Imagem de entendimento da equipe:
-    
-    <img src="https://user-images.githubusercontent.com/68930336/200196690-01b74661-167f-4aca-9954-11f1952d2e60.png" alt="Imagem de entendimento da equipe" style="height: 350px; width:450px;"/>
 
 - **RF #1** - Cadastro rápido de multiplos produtos 
     <img src="https://user-images.githubusercontent.com/88664252/200199651-d9951e46-669e-4b42-b8b4-50d5ad3460d0.png" alt="Imagem de cadastro rapido de produtos" style="height: 350px"/>
 
+- Listagem de produtos
 
+
+- Visualização de produtos
+
+
+- Edição de produtos
     
 → [Voltar ao topo](#topo)
     
